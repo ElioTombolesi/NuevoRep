@@ -5,9 +5,15 @@ namespace TareaApi.Controller
 {
     [Route("api/[controller]")]
     [ApiController]
+ramaInt3
+    public class ramaint4 : ControllerBase //Comentario
+    {
+    }
+}
+
     public class ramaint4 : ControllerBase
     {
     }
 }
-//sdasdasd 
-
+//sdasda
+master
