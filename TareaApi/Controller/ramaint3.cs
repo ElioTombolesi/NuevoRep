@@ -2,10 +2,16 @@
 using Microsoft.AspNetCore.Mvc;
 
 
+
+
+// solucion con lo que hay en la rama y el master
+//Sdsadas sdsd
+
 //sdasdasdas
 //sadasdasdas
 ///dasdfadas
 ///
+
 
 namespace TareaApi.Controller
 {
