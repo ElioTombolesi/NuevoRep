@@ -1,19 +1,17 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
+
+//sdasdasdas
+//sadasdasdas
+///dasdfadas
+///
+
 namespace TareaApi.Controller
 {
     [Route("api/[controller]")]
     [ApiController]
-ramaInt3
-    public class ramaint4 : ControllerBase //Comentario
+    public class ramaint3 : ControllerBase
     {
     }
 }
-
-    public class ramaint4 : ControllerBase
-    {
-    }
-}
-//sdasda
-master
